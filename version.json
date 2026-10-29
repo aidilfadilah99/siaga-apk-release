@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.0.11",
-  "version_code": 12,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.11/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.11/siaga-mobile.apk",
-  "apk_size": "54.0 MB",
-  "release_notes": "Pembaruan resmi SIAGA Mobile Pelalawan v1.0.11 (Build #12):\n• Update OTA Otomatis Sesi Aktif: Pop-up pembaruan langsung muncul seketika saat aplikasi sedang dibuka dan aktif di layar tanpa perlu restart\n• Multi-Channel CDN Bebas Limit: Jalur sinkronisasi Fastly GitHub CDN memastikan unduhan super cepat dan 100% stabil\n• Pembersihan Otomatis Berkas APK: File installer update langsung dihapus otomatis dari memori HP sehingga tidak menumpuk dan hemat penyimpanan\n• Manajemen Akun & Penugasan Master: Panel resmi kelola pengguna, verifikasi pendaftaran mandiri (ACC / Tolak) dan penugasan wilayah selaras web\n• Perbaikan Menyeluruh UI Bebas Keluar Kotak: Optimasi flex layout, anti-overflow text, card aspect ratio di seluruh tipe layar HP\n• Direktori Tim & Desa Live Kontak: WA & Telepon langsung ke pendamping se-Pelalawan\n• Status Aktif & Tidak Aktif 6 Lembaga LKD & Kartu SIAGA Resmi\n[OTA_META:1.0.11:12]",
-  "changelog": "Pembaruan resmi SIAGA Mobile Pelalawan v1.0.11 (Build #12):\n• Update OTA Otomatis Sesi Aktif: Pop-up pembaruan langsung muncul seketika saat aplikasi sedang dibuka dan aktif di layar tanpa perlu restart\n• Multi-Channel CDN Bebas Limit: Jalur sinkronisasi Fastly GitHub CDN memastikan unduhan super cepat dan 100% stabil\n• Pembersihan Otomatis Berkas APK: File installer update langsung dihapus otomatis dari memori HP sehingga tidak menumpuk dan hemat penyimpanan\n• Manajemen Akun & Penugasan Master: Panel resmi kelola pengguna, verifikasi pendaftaran mandiri (ACC / Tolak) dan penugasan wilayah selaras web\n• Perbaikan Menyeluruh UI Bebas Keluar Kotak: Optimasi flex layout, anti-overflow text, card aspect ratio di seluruh tipe layar HP\n• Direktori Tim & Desa Live Kontak: WA & Telepon langsung ke pendamping se-Pelalawan\n• Status Aktif & Tidak Aktif 6 Lembaga LKD & Kartu SIAGA Resmi\n[OTA_META:1.0.11:12]",
+  "latest_version": "1.0.12",
+  "version_code": 13,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.12/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.12/siaga-mobile.apk",
+  "apk_size": "54.1 MB",
+  "release_notes": "1. Rekap Kabupaten 118 Desa: Tampilan rekap LKD tingkat kabupaten kini menyajikan seluruh 118 desa/kelurahan se-Pelalawan secara lengkap tanpa terpotong.\n2. Sinkronisasi Jam & Tanggal Log: Waktu log aktivitas otomatis menyesuaikan zona waktu lokal (WIB) dengan tampilan jam, menit, dan detik selaras web.\n3. Changelog OTA Otomatis: Catatan pembaruan pada jendela update aplikasi kini selalu terbarui dinamis sesuai versi rilis terbaru.",
+  "changelog": "1. Rekap Kabupaten 118 Desa: Tampilan rekap LKD tingkat kabupaten kini menyajikan seluruh 118 desa/kelurahan se-Pelalawan secara lengkap tanpa terpotong.\n2. Sinkronisasi Jam & Tanggal Log: Waktu log aktivitas otomatis menyesuaikan zona waktu lokal (WIB) dengan tampilan jam, menit, dan detik selaras web.\n3. Changelog OTA Otomatis: Catatan pembaruan pada jendela update aplikasi kini selalu terbarui dinamis sesuai versi rilis terbaru.",
   "force_update": false
 }
