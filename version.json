@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.0.15",
-  "version_code": 16,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.15/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.15/siaga-mobile.apk",
+  "latest_version": "1.1.0",
+  "version_code": 17,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.0/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.0/siaga-mobile.apk",
   "apk_size": "54.2 MB",
-  "release_notes": "1. Redesain Menu Navigasi Bawah Melengkung (Curved Notched Bar): Mengganti bilah navigasi flat yang kaku dengan bilah melengkung berlekuk artistik, dilengkapi tombol aksi tengah mengambang (floating action button) bergradasi cyan/sky-blue dengan ikon pemindai cepat.\n2. Redesain Grid Modul Squircle Modern (Gaya Perbankan Digital): Kartu menu layanan utama beranda kini menggunakan squircle putih rounded halus dengan bayangan lembut, ikon rapi dan label proporsional, serta penambahan modul panduan LKD dan pusat bantuan.",
-  "changelog": "1. Redesain Menu Navigasi Bawah Melengkung (Curved Notched Bar): Mengganti bilah navigasi flat yang kaku dengan bilah melengkung berlekuk artistik, dilengkapi tombol aksi tengah mengambang (floating action button) bergradasi cyan/sky-blue dengan ikon pemindai cepat.\n2. Redesain Grid Modul Squircle Modern (Gaya Perbankan Digital): Kartu menu layanan utama beranda kini menggunakan squircle putih rounded halus dengan bayangan lembut, ikon rapi dan label proporsional, serta penambahan modul panduan LKD dan pusat bantuan.",
+  "release_notes": "1. Optimalisasi Menu Layanan & Modul Utama: Menghilangkan redundansi menu (Kelola Desa disatukan di Manajemen Akun, Direktori & Log Audit dikhususkan di bilah bawah, menghapus panduan statis).\n2. Pusat Bantuan DPMD Berisi Kontak Master: Menu Bantuan DPMD kini langsung menampilkan kontak resmi Administrator Master DPMD Pelalawan dengan akses cepat WhatsApp & telepon.\n3. Notifikasi Dinamis & Fungsional: Titik notifikasi merah kini bekerja cerdas dan interaktif berdasarkan deteksi log aktivitas mutasi baru dan langsung terhapus saat dilihat.\n4. Ikon Pintasan Cepat Dinamis: Mengganti ikon pemindai di tombol melayang tengah dengan ikon pintasan kilat (bolt) yang representatif.",
+  "changelog": "1. Optimalisasi Menu Layanan & Modul Utama: Menghilangkan redundansi menu (Kelola Desa disatukan di Manajemen Akun, Direktori & Log Audit dikhususkan di bilah bawah, menghapus panduan statis).\n2. Pusat Bantuan DPMD Berisi Kontak Master: Menu Bantuan DPMD kini langsung menampilkan kontak resmi Administrator Master DPMD Pelalawan dengan akses cepat WhatsApp & telepon.\n3. Notifikasi Dinamis & Fungsional: Titik notifikasi merah kini bekerja cerdas dan interaktif berdasarkan deteksi log aktivitas mutasi baru dan langsung terhapus saat dilihat.\n4. Ikon Pintasan Cepat Dinamis: Mengganti ikon pemindai di tombol melayang tengah dengan ikon pintasan kilat (bolt) yang representatif.",
   "force_update": false
 }
