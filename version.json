@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.1.0",
-  "version_code": 17,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.0/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.0/siaga-mobile.apk",
-  "apk_size": "54.2 MB",
-  "release_notes": "1. Optimalisasi Menu Layanan & Modul Utama: Menghilangkan redundansi menu (Kelola Desa disatukan di Manajemen Akun, Direktori & Log Audit dikhususkan di bilah bawah, menghapus panduan statis).\n2. Pusat Bantuan DPMD Berisi Kontak Master: Menu Bantuan DPMD kini langsung menampilkan kontak resmi Administrator Master DPMD Pelalawan dengan akses cepat WhatsApp & telepon.\n3. Notifikasi Dinamis & Fungsional: Titik notifikasi merah kini bekerja cerdas dan interaktif berdasarkan deteksi log aktivitas mutasi baru dan langsung terhapus saat dilihat.\n4. Ikon Pintasan Cepat Dinamis: Mengganti ikon pemindai di tombol melayang tengah dengan ikon pintasan kilat (bolt) yang representatif.",
-  "changelog": "1. Optimalisasi Menu Layanan & Modul Utama: Menghilangkan redundansi menu (Kelola Desa disatukan di Manajemen Akun, Direktori & Log Audit dikhususkan di bilah bawah, menghapus panduan statis).\n2. Pusat Bantuan DPMD Berisi Kontak Master: Menu Bantuan DPMD kini langsung menampilkan kontak resmi Administrator Master DPMD Pelalawan dengan akses cepat WhatsApp & telepon.\n3. Notifikasi Dinamis & Fungsional: Titik notifikasi merah kini bekerja cerdas dan interaktif berdasarkan deteksi log aktivitas mutasi baru dan langsung terhapus saat dilihat.\n4. Ikon Pintasan Cepat Dinamis: Mengganti ikon pemindai di tombol melayang tengah dengan ikon pintasan kilat (bolt) yang representatif.",
+  "latest_version": "1.1.1",
+  "version_code": 18,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.1/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.1/siaga-mobile.apk",
+  "apk_size": "54.5 MB",
+  "release_notes": "1. Reposisi Layanan & Modul Utama: Posisi menu layanan kini berada tepat di bawah bilah pencarian desa agar beranda lebih rapi dan nyaman diakses.\n2. Ekspor Excel Langsung ke Folder Download: Berkas laporan Excel (.xlsx) kini otomatis tersimpan di folder Download publik HP sehingga mudah dicari di File Manager.\n3. Penghapusan Menu Cari Wilayah: Menghapus duplikasi menu cari wilayah karena sudah terfasilitasi oleh bilah pencarian di bagian atas.\n4. Penambahan Modul Presensi & Kinerja: Menambahkan modul Absen Digital, Laporan Kinerja Harian, dan Kalender Kerja terintegrasi di posisi urutan pertama hingga ketiga.",
+  "changelog": "1. Reposisi Layanan & Modul Utama: Posisi menu layanan kini berada tepat di bawah bilah pencarian desa agar beranda lebih rapi dan nyaman diakses.\n2. Ekspor Excel Langsung ke Folder Download: Berkas laporan Excel (.xlsx) kini otomatis tersimpan di folder Download publik HP sehingga mudah dicari di File Manager.\n3. Penghapusan Menu Cari Wilayah: Menghapus duplikasi menu cari wilayah karena sudah terfasilitasi oleh bilah pencarian di bagian atas.\n4. Penambahan Modul Presensi & Kinerja: Menambahkan modul Absen Digital, Laporan Kinerja Harian, dan Kalender Kerja terintegrasi di posisi urutan pertama hingga ketiga.",
   "force_update": false
 }
