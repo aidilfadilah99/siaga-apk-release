@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.0.14",
-  "version_code": 15,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.14/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.14/siaga-mobile.apk",
-  "apk_size": "54.1 MB",
-  "release_notes": "1. Integrasi Manajemen Akun di Modul Utama: Menu Manajemen Akun & Penugasan kini menyatu rapi dalam grid Layanan & Modul Utama di beranda.\n2. Pembersihan Redundansi Menu Profil: Menghapus duplikasi menu administrasi di tab akun profil agar navigasi lebih bersih dan efisien.",
-  "changelog": "1. Integrasi Manajemen Akun di Modul Utama: Menu Manajemen Akun & Penugasan kini menyatu rapi dalam grid Layanan & Modul Utama di beranda.\n2. Pembersihan Redundansi Menu Profil: Menghapus duplikasi menu administrasi di tab akun profil agar navigasi lebih bersih dan efisien.",
+  "latest_version": "1.0.15",
+  "version_code": 16,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.15/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.15/siaga-mobile.apk",
+  "apk_size": "54.2 MB",
+  "release_notes": "1. Redesain Menu Navigasi Bawah Melengkung (Curved Notched Bar): Mengganti bilah navigasi flat yang kaku dengan bilah melengkung berlekuk artistik, dilengkapi tombol aksi tengah mengambang (floating action button) bergradasi cyan/sky-blue dengan ikon pemindai cepat.\n2. Redesain Grid Modul Squircle Modern (Gaya Perbankan Digital): Kartu menu layanan utama beranda kini menggunakan squircle putih rounded halus dengan bayangan lembut, ikon rapi dan label proporsional, serta penambahan modul panduan LKD dan pusat bantuan.",
+  "changelog": "1. Redesain Menu Navigasi Bawah Melengkung (Curved Notched Bar): Mengganti bilah navigasi flat yang kaku dengan bilah melengkung berlekuk artistik, dilengkapi tombol aksi tengah mengambang (floating action button) bergradasi cyan/sky-blue dengan ikon pemindai cepat.\n2. Redesain Grid Modul Squircle Modern (Gaya Perbankan Digital): Kartu menu layanan utama beranda kini menggunakan squircle putih rounded halus dengan bayangan lembut, ikon rapi dan label proporsional, serta penambahan modul panduan LKD dan pusat bantuan.",
   "force_update": false
 }
