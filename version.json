@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.0.13",
-  "version_code": 14,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.13/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.13/siaga-mobile.apk",
+  "latest_version": "1.0.14",
+  "version_code": 15,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.14/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.14/siaga-mobile.apk",
   "apk_size": "54.1 MB",
-  "release_notes": "1. Pencarian Cepat 118 Desa: Fitur cari desa/kelurahan di beranda kini berfungsi penuh menampilkan seluruh 118 desa se-Pelalawan.\n2. Pencarian Fleksibel & Pintar: Mendukung pencarian instan berdasarkan nama desa, kelurahan, maupun nama kecamatan.\n3. Navigasi Langsung ke Form LKD: Mengetuk hasil pencarian langsung membuka rincian pendataan desa terpilih secara presisi.",
-  "changelog": "1. Pencarian Cepat 118 Desa: Fitur cari desa/kelurahan di beranda kini berfungsi penuh menampilkan seluruh 118 desa se-Pelalawan.\n2. Pencarian Fleksibel & Pintar: Mendukung pencarian instan berdasarkan nama desa, kelurahan, maupun nama kecamatan.\n3. Navigasi Langsung ke Form LKD: Mengetuk hasil pencarian langsung membuka rincian pendataan desa terpilih secara presisi.",
+  "release_notes": "1. Integrasi Manajemen Akun di Modul Utama: Menu Manajemen Akun & Penugasan kini menyatu rapi dalam grid Layanan & Modul Utama di beranda.\n2. Pembersihan Redundansi Menu Profil: Menghapus duplikasi menu administrasi di tab akun profil agar navigasi lebih bersih dan efisien.",
+  "changelog": "1. Integrasi Manajemen Akun di Modul Utama: Menu Manajemen Akun & Penugasan kini menyatu rapi dalam grid Layanan & Modul Utama di beranda.\n2. Pembersihan Redundansi Menu Profil: Menghapus duplikasi menu administrasi di tab akun profil agar navigasi lebih bersih dan efisien.",
   "force_update": false
 }
