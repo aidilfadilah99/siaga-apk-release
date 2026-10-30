@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.0.12",
-  "version_code": 13,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.12/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.12/siaga-mobile.apk",
+  "latest_version": "1.0.13",
+  "version_code": 14,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.13/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.0.13/siaga-mobile.apk",
   "apk_size": "54.1 MB",
-  "release_notes": "1. Rekap Kabupaten 118 Desa: Tampilan rekap LKD tingkat kabupaten kini menyajikan seluruh 118 desa/kelurahan se-Pelalawan secara lengkap tanpa terpotong.\n2. Sinkronisasi Jam & Tanggal Log: Waktu log aktivitas otomatis menyesuaikan zona waktu lokal (WIB) dengan tampilan jam, menit, dan detik selaras web.\n3. Changelog OTA Otomatis: Catatan pembaruan pada jendela update aplikasi kini selalu terbarui dinamis sesuai versi rilis terbaru.",
-  "changelog": "1. Rekap Kabupaten 118 Desa: Tampilan rekap LKD tingkat kabupaten kini menyajikan seluruh 118 desa/kelurahan se-Pelalawan secara lengkap tanpa terpotong.\n2. Sinkronisasi Jam & Tanggal Log: Waktu log aktivitas otomatis menyesuaikan zona waktu lokal (WIB) dengan tampilan jam, menit, dan detik selaras web.\n3. Changelog OTA Otomatis: Catatan pembaruan pada jendela update aplikasi kini selalu terbarui dinamis sesuai versi rilis terbaru.",
+  "release_notes": "1. Pencarian Cepat 118 Desa: Fitur cari desa/kelurahan di beranda kini berfungsi penuh menampilkan seluruh 118 desa se-Pelalawan.\n2. Pencarian Fleksibel & Pintar: Mendukung pencarian instan berdasarkan nama desa, kelurahan, maupun nama kecamatan.\n3. Navigasi Langsung ke Form LKD: Mengetuk hasil pencarian langsung membuka rincian pendataan desa terpilih secara presisi.",
+  "changelog": "1. Pencarian Cepat 118 Desa: Fitur cari desa/kelurahan di beranda kini berfungsi penuh menampilkan seluruh 118 desa se-Pelalawan.\n2. Pencarian Fleksibel & Pintar: Mendukung pencarian instan berdasarkan nama desa, kelurahan, maupun nama kecamatan.\n3. Navigasi Langsung ke Form LKD: Mengetuk hasil pencarian langsung membuka rincian pendataan desa terpilih secara presisi.",
   "force_update": false
 }
