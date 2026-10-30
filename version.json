@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.1.1",
-  "version_code": 18,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.1/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.1/siaga-mobile.apk",
+  "latest_version": "1.1.2",
+  "version_code": 19,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.2/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.2/siaga-mobile.apk",
   "apk_size": "54.5 MB",
-  "release_notes": "1. Reposisi Layanan & Modul Utama: Posisi menu layanan kini berada tepat di bawah bilah pencarian desa agar beranda lebih rapi dan nyaman diakses.\n2. Ekspor Excel Langsung ke Folder Download: Berkas laporan Excel (.xlsx) kini otomatis tersimpan di folder Download publik HP sehingga mudah dicari di File Manager.\n3. Penghapusan Menu Cari Wilayah: Menghapus duplikasi menu cari wilayah karena sudah terfasilitasi oleh bilah pencarian di bagian atas.\n4. Penambahan Modul Presensi & Kinerja: Menambahkan modul Absen Digital, Laporan Kinerja Harian, dan Kalender Kerja terintegrasi di posisi urutan pertama hingga ketiga.",
-  "changelog": "1. Reposisi Layanan & Modul Utama: Posisi menu layanan kini berada tepat di bawah bilah pencarian desa agar beranda lebih rapi dan nyaman diakses.\n2. Ekspor Excel Langsung ke Folder Download: Berkas laporan Excel (.xlsx) kini otomatis tersimpan di folder Download publik HP sehingga mudah dicari di File Manager.\n3. Penghapusan Menu Cari Wilayah: Menghapus duplikasi menu cari wilayah karena sudah terfasilitasi oleh bilah pencarian di bagian atas.\n4. Penambahan Modul Presensi & Kinerja: Menambahkan modul Absen Digital, Laporan Kinerja Harian, dan Kalender Kerja terintegrasi di posisi urutan pertama hingga ketiga.",
+  "release_notes": "Pembersihan Menu Duplikat: Menghapus modul Status Monev yang redundan dengan Rekap LKD pada akun pendamping desa sehingga menu beranda lebih bersih, ringkas, dan fokus.",
+  "changelog": "Pembersihan Menu Duplikat: Menghapus modul Status Monev yang redundan dengan Rekap LKD pada akun pendamping desa sehingga menu beranda lebih bersih, ringkas, dan fokus.",
   "force_update": false
 }
