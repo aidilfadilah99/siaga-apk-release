@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.1.7",
-  "version_code": 24,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.7/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.7/siaga-mobile.apk",
+  "latest_version": "1.1.8",
+  "version_code": 25,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.8/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.8/siaga-mobile.apk",
   "apk_size": "55.5 MB",
-  "release_notes": "Pembaruan SIAGA v1.1.7: Perbaikan overflow UI presensi, penguncian presensi 1x sehari, pembatasan ketat scope berjenjang, dan pagination presensi serta laporan kinerja tim.",
-  "changelog": "Pembaruan SIAGA v1.1.7: Perbaikan overflow UI presensi, penguncian presensi 1x sehari, pembatasan ketat scope berjenjang, dan pagination presensi serta laporan kinerja tim.",
+  "release_notes": "Pembaruan SIAGA v1.1.8: Penambahan detik presensi realtime, perbaikan sinkronisasi scope Korcam, dan pemisahan akun Master dari feed monitoring tim lapangan.",
+  "changelog": "Pembaruan SIAGA v1.1.8: Penambahan detik presensi realtime, perbaikan sinkronisasi scope Korcam, dan pemisahan akun Master dari feed monitoring tim lapangan.",
   "force_update": false
 }
