@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.1.4",
-  "version_code": 21,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.4/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.4/siaga-mobile.apk",
-  "apk_size": "55.1 MB",
-  "release_notes": "Pembaruan SIAGA v1.1.4: Update OTA murni otomatis tanpa opsi browser, Biometrik Face ID sistem bawaan buka kunci HP, GPS real-time mengikuti posisi aktual perangkat saat absen masuk & keluar, serta perbaruan presensi fleksibel.",
-  "changelog": "Pembaruan SIAGA v1.1.4: Update OTA murni otomatis tanpa opsi browser, Biometrik Face ID sistem bawaan buka kunci HP, GPS real-time mengikuti posisi aktual perangkat saat absen masuk & keluar, serta perbaruan presensi fleksibel.",
+  "latest_version": "1.1.5",
+  "version_code": 22,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.5/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.5/siaga-mobile.apk",
+  "apk_size": "55.3 MB",
+  "release_notes": "Pembaruan SIAGA v1.1.5: Isolasi data absensi & laporan kinerja per akun, penambahan menu Kinerja Tim untuk monitoring berjenjang sesuai scope wilayah kerja binaan (Master, Wilayah, Korcam), serta sinkronisasi presensi tim realtime.",
+  "changelog": "Pembaruan SIAGA v1.1.5: Isolasi data absensi & laporan kinerja per akun, penambahan menu Kinerja Tim untuk monitoring berjenjang sesuai scope wilayah kerja binaan (Master, Wilayah, Korcam), serta sinkronisasi presensi tim realtime.",
   "force_update": false
 }
