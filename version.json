@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.1.6",
-  "version_code": 23,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.6/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.6/siaga-mobile.apk",
-  "apk_size": "55.4 MB",
-  "release_notes": "Pembaruan SIAGA v1.1.6: Perbaikan sinkronisasi Kinerja Tim & Presensi Berjenjang (Hybrid Offline-Online Pool), integrasi fallback data lokal perangkat, perbaikan kueri database scope wilayah/kecamatan/desa, serta eliminasi bug data tidak muncul.",
-  "changelog": "Pembaruan SIAGA v1.1.6: Perbaikan sinkronisasi Kinerja Tim & Presensi Berjenjang (Hybrid Offline-Online Pool), integrasi fallback data lokal perangkat, perbaikan kueri database scope wilayah/kecamatan/desa, serta eliminasi bug data tidak muncul.",
+  "latest_version": "1.1.7",
+  "version_code": 24,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.7/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.7/siaga-mobile.apk",
+  "apk_size": "55.5 MB",
+  "release_notes": "Pembaruan SIAGA v1.1.7: Perbaikan overflow UI presensi, penguncian presensi 1x sehari, pembatasan ketat scope berjenjang, dan pagination presensi serta laporan kinerja tim.",
+  "changelog": "Pembaruan SIAGA v1.1.7: Perbaikan overflow UI presensi, penguncian presensi 1x sehari, pembatasan ketat scope berjenjang, dan pagination presensi serta laporan kinerja tim.",
   "force_update": false
 }
