@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.1.12",
-  "version_code": 29,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.12/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.12/siaga-mobile.apk",
+  "latest_version": "1.1.13",
+  "version_code": 30,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.13/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.13/siaga-mobile.apk",
   "apk_size": "55.6 MB",
-  "release_notes": "Pembaruan SIAGA v1.1.12: Resolusi mutlak endpoint update profil NIK & normalisasi routing server.",
-  "changelog": "Pembaruan SIAGA v1.1.12: Resolusi mutlak endpoint update profil NIK & normalisasi routing server.",
+  "release_notes": "Pembaruan SIAGA v1.1.13: Isolasi ketat scope Kinerja Tim (Korcam & Wilayah), perbaikan query berjenjang, dan pembersihan cross-pool cache lokal.",
+  "changelog": "Pembaruan SIAGA v1.1.13: Isolasi ketat scope Kinerja Tim (Korcam & Wilayah), perbaikan query berjenjang, dan pembersihan cross-pool cache lokal.",
   "force_update": false
 }
