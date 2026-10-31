@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.1.9",
-  "version_code": 26,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.9/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.9/siaga-mobile.apk",
-  "apk_size": "55.5 MB",
-  "release_notes": "Pembaruan SIAGA v1.1.9: Penghapusan total filter berbasis teks GPS dan penguncian mutlak 100% pada relasi SK penugasan personil (anti salah kamar & anti data bocor).",
-  "changelog": "Pembaruan SIAGA v1.1.9: Penghapusan total filter berbasis teks GPS dan penguncian mutlak 100% pada relasi SK penugasan personil (anti salah kamar & anti data bocor).",
+  "latest_version": "1.1.10",
+  "version_code": 27,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.10/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.10/siaga-mobile.apk",
+  "apk_size": "55.6 MB",
+  "release_notes": "Pembaruan SIAGA v1.1.10: Pembaruan Kartu SIAGA (NIK & jabatan langsung tanpa kata Monev), fitur update profil mandiri di Akun, dan optimalisasi siklus mutasi tim.",
+  "changelog": "Pembaruan SIAGA v1.1.10: Pembaruan Kartu SIAGA (NIK & jabatan langsung tanpa kata Monev), fitur update profil mandiri di Akun, dan optimalisasi siklus mutasi tim.",
   "force_update": false
 }
