@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.1.11",
-  "version_code": 28,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.11/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.11/siaga-mobile.apk",
+  "latest_version": "1.1.12",
+  "version_code": 29,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.12/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.12/siaga-mobile.apk",
   "apk_size": "55.6 MB",
-  "release_notes": "Pembaruan SIAGA v1.1.11: Perbaikan deserialisasi update profil NIK dan implementasi Opsi 1 (Dual-Perspective arsip desa & portofolio personil).",
-  "changelog": "Pembaruan SIAGA v1.1.11: Perbaikan deserialisasi update profil NIK dan implementasi Opsi 1 (Dual-Perspective arsip desa & portofolio personil).",
+  "release_notes": "Pembaruan SIAGA v1.1.12: Resolusi mutlak endpoint update profil NIK & normalisasi routing server.",
+  "changelog": "Pembaruan SIAGA v1.1.12: Resolusi mutlak endpoint update profil NIK & normalisasi routing server.",
   "force_update": false
 }
