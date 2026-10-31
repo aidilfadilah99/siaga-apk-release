@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.1.15",
-  "version_code": 32,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.15/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.15/siaga-mobile.apk",
-  "apk_size": "55.6 MB",
-  "release_notes": "Pembaruan SIAGA v1.1.13: Isolasi ketat scope Kinerja Tim (Korcam & Wilayah), perbaikan query berjenjang, dan pembersihan cross-pool cache lokal.",
-  "changelog": "Pembaruan SIAGA v1.1.13: Isolasi ketat scope Kinerja Tim (Korcam & Wilayah), perbaikan query berjenjang, dan pembersihan cross-pool cache lokal.",
+  "latest_version": "1.1.16",
+  "version_code": 33,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.16/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.16/siaga-mobile.apk",
+  "apk_size": "55.7 MB",
+  "release_notes": "Pembaruan SIAGA v1.1.16: Perbaikan cakupan monitoring presensi Master & Kabupaten (seluruh 12 kecamatan) dan penambahan toggle riwayat presensi.",
+  "changelog": "Pembaruan SIAGA v1.1.16: Perbaikan cakupan monitoring presensi Master & Kabupaten (seluruh 12 kecamatan) dan penambahan toggle riwayat presensi.",
   "force_update": false
 }
