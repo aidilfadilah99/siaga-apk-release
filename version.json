@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.1.8",
-  "version_code": 25,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.8/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.8/siaga-mobile.apk",
+  "latest_version": "1.1.9",
+  "version_code": 26,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.9/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.9/siaga-mobile.apk",
   "apk_size": "55.5 MB",
-  "release_notes": "Pembaruan SIAGA v1.1.8: Penambahan detik presensi realtime, perbaikan sinkronisasi scope Korcam, dan pemisahan akun Master dari feed monitoring tim lapangan.",
-  "changelog": "Pembaruan SIAGA v1.1.8: Penambahan detik presensi realtime, perbaikan sinkronisasi scope Korcam, dan pemisahan akun Master dari feed monitoring tim lapangan.",
+  "release_notes": "Pembaruan SIAGA v1.1.9: Penghapusan total filter berbasis teks GPS dan penguncian mutlak 100% pada relasi SK penugasan personil (anti salah kamar & anti data bocor).",
+  "changelog": "Pembaruan SIAGA v1.1.9: Penghapusan total filter berbasis teks GPS dan penguncian mutlak 100% pada relasi SK penugasan personil (anti salah kamar & anti data bocor).",
   "force_update": false
 }
