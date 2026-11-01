@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.1.22",
-  "version_code": 39,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.22/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.22/siaga-mobile.apk",
+  "latest_version": "1.2.0",
+  "version_code": 40,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.0/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.0/siaga-mobile.apk",
   "apk_size": "55.8 MB",
-  "release_notes": "Pembaruan SIAGA v1.1.22: Ekspor Laporan Bulanan langsung berformat PDF Asli (.pdf) ke folder Download tanpa cache (Zero Cache) & Fitur Ganti Kata Sandi Mandiri di aplikasi mobile.",
-  "changelog": "Pembaruan SIAGA v1.1.22: Ekspor Laporan Bulanan langsung berformat PDF Asli (.pdf) ke folder Download tanpa cache (Zero Cache) & Fitur Ganti Kata Sandi Mandiri di aplikasi mobile.",
+  "release_notes": "Pembaruan SIAGA v1.2.0: Ekspor Laporan Bulanan langsung berformat PDF Asli (.pdf) ke folder Download tanpa cache (Zero Cache), Fitur Ganti Kata Sandi Mandiri, penataan versi desimal (0-9 rollover), dan penonaktifan prompt PWA web.",
+  "changelog": "Pembaruan SIAGA v1.2.0: Ekspor Laporan Bulanan langsung berformat PDF Asli (.pdf) ke folder Download tanpa cache (Zero Cache), Fitur Ganti Kata Sandi Mandiri, penataan versi desimal (0-9 rollover), dan penonaktifan prompt PWA web.",
   "force_update": false
 }
