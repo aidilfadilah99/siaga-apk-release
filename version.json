@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.2.1",
-  "version_code": 41,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.1/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.1/siaga-mobile.apk",
-  "apk_size": "55.8 MB",
-  "release_notes": "Pembaruan SIAGA v1.2.1: Desain adaptif & responsif tablet/pad (max-width centering) serta pengaman skala teks sistem (Text Scaler clamp 0.85x-1.15x anti-overflow).",
-  "changelog": "Pembaruan SIAGA v1.2.1: Desain adaptif & responsif tablet/pad (max-width centering) serta pengaman skala teks sistem (Text Scaler clamp 0.85x-1.15x anti-overflow).",
+  "latest_version": "1.2.2",
+  "version_code": 42,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.2/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.2/siaga-mobile.apk",
+  "apk_size": "57.5 MB",
+  "release_notes": "Pembaruan SIAGA v1.2.2: Export Laporan Bulanan instan ke PDF murni (anti-hang & zero-cache) serta tata letak 2 kolom adaptif kalender kerja di tablet mode landscape.",
+  "changelog": "Pembaruan SIAGA v1.2.2: Export Laporan Bulanan instan ke PDF murni (anti-hang & zero-cache) serta tata letak 2 kolom adaptif kalender kerja di tablet mode landscape.",
   "force_update": false
 }
