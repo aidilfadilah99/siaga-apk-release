@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.1.16",
-  "version_code": 33,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.16/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.16/siaga-mobile.apk",
+  "latest_version": "1.1.17",
+  "version_code": 34,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.17/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.17/siaga-mobile.apk",
   "apk_size": "55.7 MB",
-  "release_notes": "Pembaruan SIAGA v1.1.16: Perbaikan cakupan monitoring presensi Master & Kabupaten (seluruh 12 kecamatan) dan penambahan toggle riwayat presensi.",
-  "changelog": "Pembaruan SIAGA v1.1.16: Perbaikan cakupan monitoring presensi Master & Kabupaten (seluruh 12 kecamatan) dan penambahan toggle riwayat presensi.",
+  "release_notes": "Pembaruan SIAGA v1.1.17: Penguncian presensi lintas perangkat (anti double absen), dukungan Face ID Android (BIOMETRIC_WEAK), dan refresh GPS satelit live real-time.",
+  "changelog": "Pembaruan SIAGA v1.1.17: Penguncian presensi lintas perangkat (anti double absen), dukungan Face ID Android (BIOMETRIC_WEAK), dan refresh GPS satelit live real-time.",
   "force_update": false
 }
