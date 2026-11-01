@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.1.18",
-  "version_code": 35,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.18/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.18/siaga-mobile.apk",
+  "latest_version": "1.1.19",
+  "version_code": 36,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.19/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.19/siaga-mobile.apk",
   "apk_size": "55.7 MB",
-  "release_notes": "Pembaruan SIAGA v1.1.18: Dukungan penuh Face Lock Screen HP (Buka Kunci Layar: Wajah, Sidik Jari, atau PIN) tanpa kendala hardware biometrik.",
-  "changelog": "Pembaruan SIAGA v1.1.18: Dukungan penuh Face Lock Screen HP (Buka Kunci Layar: Wajah, Sidik Jari, atau PIN) tanpa kendala hardware biometrik.",
+  "release_notes": "Pembaruan SIAGA v1.1.19: Laporan Kinerja Fleksibel (Piket Kantor Desa, LKD, Administrasi, Lapangan), Rekap Bulanan Otomatis & Cetak PDF, Pembersihan Dashboard, dan Nama Lengkap pada Presensi Tim.",
+  "changelog": "Pembaruan SIAGA v1.1.19: Laporan Kinerja Fleksibel (Piket Kantor Desa, LKD, Administrasi, Lapangan), Rekap Bulanan Otomatis & Cetak PDF, Pembersihan Dashboard, dan Nama Lengkap pada Presensi Tim.",
   "force_update": false
 }
