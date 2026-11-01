@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.1.17",
-  "version_code": 34,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.17/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.17/siaga-mobile.apk",
+  "latest_version": "1.1.18",
+  "version_code": 35,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.18/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.18/siaga-mobile.apk",
   "apk_size": "55.7 MB",
-  "release_notes": "Pembaruan SIAGA v1.1.17: Penguncian presensi lintas perangkat (anti double absen), dukungan Face ID Android (BIOMETRIC_WEAK), dan refresh GPS satelit live real-time.",
-  "changelog": "Pembaruan SIAGA v1.1.17: Penguncian presensi lintas perangkat (anti double absen), dukungan Face ID Android (BIOMETRIC_WEAK), dan refresh GPS satelit live real-time.",
+  "release_notes": "Pembaruan SIAGA v1.1.18: Dukungan penuh Face Lock Screen HP (Buka Kunci Layar: Wajah, Sidik Jari, atau PIN) tanpa kendala hardware biometrik.",
+  "changelog": "Pembaruan SIAGA v1.1.18: Dukungan penuh Face Lock Screen HP (Buka Kunci Layar: Wajah, Sidik Jari, atau PIN) tanpa kendala hardware biometrik.",
   "force_update": false
 }
