@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.1.19",
-  "version_code": 36,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.19/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.19/siaga-mobile.apk",
+  "latest_version": "1.1.20",
+  "version_code": 37,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.20/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.1.20/siaga-mobile.apk",
   "apk_size": "55.7 MB",
-  "release_notes": "Pembaruan SIAGA v1.1.19: Laporan Kinerja Fleksibel (Piket Kantor Desa, LKD, Administrasi, Lapangan), Rekap Bulanan Otomatis & Cetak PDF, Pembersihan Dashboard, dan Nama Lengkap pada Presensi Tim.",
-  "changelog": "Pembaruan SIAGA v1.1.19: Laporan Kinerja Fleksibel (Piket Kantor Desa, LKD, Administrasi, Lapangan), Rekap Bulanan Otomatis & Cetak PDF, Pembersihan Dashboard, dan Nama Lengkap pada Presensi Tim.",
+  "release_notes": "Pembaruan SIAGA v1.1.20: Arsitektur Pure Server-First 100% Anti Data Hantu & Kotak Keluar (Outbox Queue) untuk Daerah Blank Spot / Sulit Sinyal.",
+  "changelog": "Pembaruan SIAGA v1.1.20: Arsitektur Pure Server-First 100% Anti Data Hantu & Kotak Keluar (Outbox Queue) untuk Daerah Blank Spot / Sulit Sinyal.",
   "force_update": false
 }
