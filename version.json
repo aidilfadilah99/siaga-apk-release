@@ -1,11 +1,11 @@
 {
   "success": true,
-  "latest_version": "1.2.3",
-  "version_code": 43,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.3/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.3/siaga-mobile.apk",
-  "apk_size": "57.5 MB",
-  "release_notes": "Pembaruan SIAGA v1.2.3: Format tanggal pengesahan tanda tangan laporan bulanan resmi menggunakan nama bulan (contoh: Pangkalan Kerinci, 1 November 2026).",
-  "changelog": "Pembaruan SIAGA v1.2.3: Format tanggal pengesahan tanda tangan laporan bulanan resmi menggunakan nama bulan (contoh: Pangkalan Kerinci, 1 November 2026).",
+  "latest_version": "1.2.4",
+  "version_code": 44,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.4/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.4/siaga-mobile.apk",
+  "apk_size": "57.8 MB",
+  "release_notes": "Pembaruan SIAGA v1.2.4: Fitur Radar Kepatuhan Belum Presensi + Ingatkan WA 1-Tap, Cetak PDF Rekap Bulanan Tim untuk Pengawas, Mode Pantau Read-Only LKD bagi Kabupaten & Wilayah, serta optimasi kecepatan presensi & baterai.",
+  "changelog": "Pembaruan SIAGA v1.2.4: Fitur Radar Kepatuhan Belum Presensi + Ingatkan WA 1-Tap, Cetak PDF Rekap Bulanan Tim untuk Pengawas, Mode Pantau Read-Only LKD bagi Kabupaten & Wilayah, serta optimasi kecepatan presensi & baterai.",
   "force_update": false
 }
