@@ -1,12 +1,10 @@
 {
-  "version": "1.2.7",
-  "latest_version": "1.2.7",
-  "version_code": 47,
-  "build_number": 47,
-  "force_update": false,
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.7/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.7/siaga-mobile.apk",
-  "apk_size": "57.9 MB",
-  "changelog": "Pembaruan SIAGA v1.2.7:\n1. Perbaikan cakupan berjenjang (scope hierarki Kabupaten, Wilayah, Korcam, dan Desa/Kelurahan) pada Rekap Bulanan Tim & Cetak PDF.\n2. Integrasi tampilan langsung Rekap Bulanan Tim sesuai scope pada tab Rekap Bulanan.",
-  "release_notes": "Pembaruan SIAGA v1.2.7:\n1. Perbaikan cakupan berjenjang (scope hierarki Kabupaten, Wilayah, Korcam, dan Desa/Kelurahan) pada Rekap Bulanan Tim & Cetak PDF.\n2. Integrasi tampilan langsung Rekap Bulanan Tim sesuai scope pada tab Rekap Bulanan."
+  "version": "1.2.8",
+  "latest_version": "1.2.8",
+  "buildNumber": 48,
+  "version_code": 48,
+  "apkUrl": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.8/siaga-mobile.apk",
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.8/siaga-mobile.apk",
+  "releaseNotes": "Pembaruan SIAGA v1.2.8: Penyempurnaan validasi presensi & izin/sakit, konsistensi scope berjenjang, serta indikator kalender & laporan PDF.",
+  "forceUpdate": false
 }
