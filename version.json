@@ -1,11 +1,12 @@
 {
-  "success": true,
-  "latest_version": "1.2.6",
-  "version_code": 46,
+  "version": "1.2.7",
+  "latest_version": "1.2.7",
+  "version_code": 47,
+  "build_number": 47,
   "force_update": false,
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.7/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.7/siaga-mobile.apk",
   "apk_size": "57.9 MB",
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.6/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.6/siaga-mobile.apk",
-  "release_notes": "Pembaruan SIAGA v1.2.6:\n1. Fitur pencatatan langsung Sakit & Izin dengan isian alasan teks pada menu Presensi Harian.\n2. Otomatis mengecualikan personel yang Sakit/Izin dari daftar merah Belum Absen Hari Ini.\n3. Penambahan kolom Sakit & Izin pada Rekap Bulanan Tim & Cetak PDF.\n4. Penghapusan kolom Status LKD pada Rekap Bulanan Tim & PDF.\n\n[OTA_META:1.2.6:46]",
-  "changelog": "Pembaruan SIAGA v1.2.6: Fitur pencatatan langsung Sakit & Izin (dengan alasan teks), integrasi kolom Sakit & Izin pada Rekap Bulanan Tim & PDF, serta penghapusan kolom Status LKD pada Rekap Bulanan Tim."
+  "changelog": "Pembaruan SIAGA v1.2.7:\n1. Perbaikan cakupan berjenjang (scope hierarki Kabupaten, Wilayah, Korcam, dan Desa/Kelurahan) pada Rekap Bulanan Tim & Cetak PDF.\n2. Integrasi tampilan langsung Rekap Bulanan Tim sesuai scope pada tab Rekap Bulanan.",
+  "release_notes": "Pembaruan SIAGA v1.2.7:\n1. Perbaikan cakupan berjenjang (scope hierarki Kabupaten, Wilayah, Korcam, dan Desa/Kelurahan) pada Rekap Bulanan Tim & Cetak PDF.\n2. Integrasi tampilan langsung Rekap Bulanan Tim sesuai scope pada tab Rekap Bulanan."
 }
