@@ -1,10 +1,11 @@
 {
-  "latest_version": "1.2.5",
-  "version_code": 45,
+  "success": true,
+  "latest_version": "1.2.6",
+  "version_code": 46,
   "force_update": false,
-  "apk_size": "57.8 MB",
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.5/siaga-mobile.apk",
-  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.5/siaga-mobile.apk",
-  "release_notes": "Pembaruan SIAGA v1.2.5:\n1. Rekap Bulanan Tim hanya menghitung personel aktif serta tetap menyimpan data personel yang keluar di pertengahan bulan tersebut.\n2. Urutan data berjenjang: Kabupaten, Wilayah, Korcam, dan Desa/Kelurahan (terurut rapi per Kecamatan).\n3. Kolom Kecamatan dan Desa/Kelurahan dipisah, tanpa awalan kata Desa/Kelurahan.\n4. Angka Absen Masuk, Absen Pulang, dan Laporan tampil bersih tanpa satuan hr/dok.\n5. File PDF Rekap Tim langsung disimpan ke folder Download perangkat.",
-  "changelog": "Pembaruan SIAGA v1.2.5: Penyempurnaan Rekap Bulanan Tim & PDF (filter akun aktif + dukungan personel keluar pertengahan bulan, urutan berjenjang Kabupaten/Wilayah/Korcam/Desa per kecamatan, pemisahan kolom Kecamatan & Desa/Kelurahan, angka presensi/laporan bersih, dan penyimpanan PDF langsung ke folder Download)."
+  "apk_size": "57.9 MB",
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.6/siaga-mobile.apk",
+  "apk_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.6/siaga-mobile.apk",
+  "release_notes": "Pembaruan SIAGA v1.2.6:\n1. Fitur pencatatan langsung Sakit & Izin dengan isian alasan teks pada menu Presensi Harian.\n2. Otomatis mengecualikan personel yang Sakit/Izin dari daftar merah Belum Absen Hari Ini.\n3. Penambahan kolom Sakit & Izin pada Rekap Bulanan Tim & Cetak PDF.\n4. Penghapusan kolom Status LKD pada Rekap Bulanan Tim & PDF.\n\n[OTA_META:1.2.6:46]",
+  "changelog": "Pembaruan SIAGA v1.2.6: Fitur pencatatan langsung Sakit & Izin (dengan alasan teks), integrasi kolom Sakit & Izin pada Rekap Bulanan Tim & PDF, serta penghapusan kolom Status LKD pada Rekap Bulanan Tim."
 }
