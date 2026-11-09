@@ -1,10 +1,10 @@
 {
-  "version": "1.2.8",
-  "latest_version": "1.2.8",
-  "buildNumber": 48,
-  "version_code": 48,
-  "apkUrl": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.8/siaga-mobile.apk",
-  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.8/siaga-mobile.apk",
-  "releaseNotes": "Pembaruan SIAGA v1.2.8: Penyempurnaan validasi presensi & izin/sakit, konsistensi scope berjenjang, serta indikator kalender & laporan PDF.",
+  "version": "1.2.9",
+  "latest_version": "1.2.9",
+  "buildNumber": 49,
+  "version_code": 49,
+  "apkUrl": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.9/siaga-mobile.apk",
+  "download_url": "https://github.com/aidilfadilah99/siaga-apk-release/releases/download/v1.2.9/siaga-mobile.apk",
+  "releaseNotes": "Pembaruan SIAGA v1.2.9: Fitur Multi-Tahun LKD (2025/2026/2027) dengan 1-Klik Salin Data Tahun Sebelumnya, Tren Antar-Tahun, serta Rapor Kesehatan Kelembagaan Desa (Peta Prioritas Pembinaan Berjenjang).",
   "forceUpdate": false
 }
